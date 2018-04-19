@@ -7,3 +7,5 @@ level: 3
 type:
   - stretch
   - lab
+
+parent_template: git@github.com:learn-co-curriculum/upperline-hs-oo-stretch-challenges-lab.git
